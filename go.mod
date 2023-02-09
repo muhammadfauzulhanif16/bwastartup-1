@@ -8,9 +8,8 @@ require (
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-contrib/multitemplate v0.0.0-20200916052041-666a7309d230
 	github.com/gin-contrib/sessions v0.0.3
-	github.com/gin-gonic/gin v1.6.3
-	github.com/go-playground/validator v9.31.0+incompatible
-	github.com/go-playground/validator/v10 v10.4.0
+	github.com/gin-gonic/gin v1.7.7
+	github.com/go-playground/validator/v10 v10.4.1
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/gosimple/slug v1.9.0
 	github.com/json-iterator/go v1.1.10 // indirect
