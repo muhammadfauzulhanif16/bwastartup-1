@@ -9,7 +9,6 @@ require (
 	github.com/gin-contrib/multitemplate v0.0.0-20200916052041-666a7309d230
 	github.com/gin-contrib/sessions v0.0.3
 	github.com/gin-gonic/gin v1.6.3
-	github.com/go-playground/validator v9.31.0+incompatible
 	github.com/go-playground/validator/v10 v10.4.0
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/gosimple/slug v1.9.0
@@ -20,7 +19,7 @@ require (
 	github.com/ugorji/go v1.1.9 // indirect
 	github.com/veritrans/go-midtrans v0.0.0-20200831092805-5bfccc26bd1f
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
-	golang.org/x/sys v0.0.0-20200926100807-9d91bd62050c // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	gorm.io/driver/mysql v1.0.1
